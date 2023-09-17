@@ -1,4 +1,4 @@
-# Speech Text Reader [Link](https://abhilashtengli.github.io/Speech-text-reader/)
+# [Speech Text Reader](https://abhilashtengli.github.io/Speech-text-reader/)
 
 This is a simple web application that allows users to convert text into speech using the browser's built-in Text-to-Speech (TTS) capabilities. Users can select different voices and click on images with associated phrases to have them read aloud.
 
