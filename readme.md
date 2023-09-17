@@ -10,7 +10,7 @@ This is a simple web application that allows users to convert text into speech u
 
 ## Demo
 
-You can check out a live demo of the Speech Text Reader here: [Live Demo]()
+You can check out a live demo of the Speech Text Reader here: [Live Demo](https://abhilashtengli.github.io/Speech-text-reader/)
 
 ## Features
 
